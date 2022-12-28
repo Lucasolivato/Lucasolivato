@@ -1,7 +1,7 @@
 ## E ai pessoal, Lucasolivato Aqui, seja bem vindo!
 
 <div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasolivatoGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasolivato&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasolivato&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
