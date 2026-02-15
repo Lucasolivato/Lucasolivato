@@ -29,10 +29,9 @@ Focado em garantir a excelência de produtos digitais através de engenharia de 
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucasolivato&show_icons=true&theme=dark&include_all_commits=true&count_private=true )
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasolivato&show_icons=true&theme=react&rank_icon=github&display_format=v2 )](https://github.com/anuraghazra/github-readme-stats )
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasolivato&layout=compact&langs_count=8&theme=dark )
-
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolivato&layout=compact&theme=react&hide_border=true )](https://github.com/anuraghazra/github-readme-stats )
 
 ---
 
