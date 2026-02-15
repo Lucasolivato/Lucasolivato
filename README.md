@@ -1,22 +1,38 @@
-## E ai pessoal, Lucas Olivato aqui, seja bem vindo!
+# Olá, eu sou o Lucas Olivato 👋
 
-<div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasolivato&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasolivato&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+### QA Engineer | Especialista em Automação de Testes & IA
 
-## Codar é um modo de pensar
-<div style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="150" alt="coding-time" src="code.gif">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-</div>
+Focado em garantir a excelência de produtos digitais através de engenharia de qualidade e automação de alto impacto. Atualmente, exploro a interseção entre QA e Inteligência Artificial para otimizar ciclos de entrega.
 
+---
 
+### 🚀 Destaques Técnicos
+- **Automação SAP:** Implementação de framework (Robot Framework) que gerou +600 pedidos em 10h para testes de carga em microsserviços.
+- **Modern QA:** Especialista em Playwright, Cypress e arquiteturas de testes E2E escaláveis.
+- **IA em Testes:** Utilização de agentes autônomos para otimização de UX e performance.
 
-![Snake animation](https://github.com/Lucasolivato/Lucasolivato/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🛠️ Tech Stack
+
+**Automação & Testes**
+![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white )
+![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=flat-square&logo=cypress&logoColor=white )
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-%23000000?style=flat-square&logo=robotframework&logoColor=white )
+
+**Desenvolvimento**
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js )
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white )
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white )
+
+---
+
+### 📊 Estatísticas
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasolivato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasolivato&layout=compact&langs_count=8&theme=dark"/>
+</p>
+
+---
+
+🔗 **Confira meu portfólio interativo:** [lucasolivato.com](https://lucasolivato.com )
