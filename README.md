@@ -27,12 +27,4 @@ Focado em garantir a excelência de produtos digitais através de engenharia de 
 
 ---
 
-### 📊 Estatísticas
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasolivato&show_icons=true&theme=react&rank_icon=github&display_format=v2 )](https://github.com/anuraghazra/github-readme-stats )
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolivato&layout=compact&theme=react&hide_border=true )](https://github.com/anuraghazra/github-readme-stats )
-
----
-
 🔗 **Confira meu portfólio interativo:** [lucasolivato.com](https://lucasolivato.com )
