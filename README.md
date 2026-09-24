@@ -16,7 +16,7 @@ Sou **QA Automation Engineer & Desenvolvedor de IA**: trabalho dos dois lados do
 - **Agentes de IA na NuageIT** — em junho de 2026 migrei de QA para desenvolvimento. Desde então, crio agentes com LLMs para clientes: construo e testo assistentes que respondem perguntas dentro de um contexto: um agente conversacional serverless na AWS, com guardrails contra prompt injection, e um assistente de analytics que responde apenas com dados reais do banco, sem inventar números.
 - **[VORCQ](https://www.lucasolivato.com/work/vorcq)** — sistema de gestão de uma locadora de caçambas, em produção: regras de negócio no banco, trilha de auditoria, três perfis de acesso e quality gates a cada entrega.
 - **ClinicFlow** — CRM SaaS multi-tenant para clínicas médicas e odontológicas, com atendimento via WhatsApp e automações com IA.
-- **[lucasolivato.com](https://github.com/Lucasolivato/lucasolivato-portfolio)** — meu portfólio, tratado como produto: 80 testes com Playwright e axe rodando no GitHub Actions.
+- **[lucasolivato.com](https://github.com/Lucasolivato/lucasolivato-portfolio)** — meu portfólio, tratado como produto: 102 testes com Playwright e axe rodando no GitHub Actions.
 
 ### `// resultados`
 
@@ -60,7 +60,7 @@ Estudos de caso completos: [VORCQ](https://www.lucasolivato.com/work/vorcq) · [
 
 ```
 jun/2026 — hoje   NuageIT            Desenvolvedor · agentes de IA e LLMs
-2025 — jun/2026   NuageIT            Analista de Qualidade de Software
+2025 — jun/2026   NuageIT            Analista de Garantia de Qualidade · único QA do time
 2023 — 2025       Tecnologia Única   QA · Robot Framework, Selenium, Python e SAP
 2010 — 2020       área técnica       energia solar e eletrônica
 formação          Gestão de TI (Fatec Jaú) · Técnico em Desenvolvimento de Sistemas (Etec)
