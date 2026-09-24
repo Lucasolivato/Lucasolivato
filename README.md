@@ -1,10 +1,10 @@
 <a href="https://www.lucasolivato.com">
-  <img src="assets/banner.svg" alt="Lucas Olivato — QA Automation Engineer. Transformo requisitos em software confiável." width="100%">
+  <img src="assets/banner.svg" alt="Lucas Olivato — QA Automation Engineer e Desenvolvedor de IA. Transformo requisitos em software confiável." width="100%">
 </a>
 
 <br>
 
-Sou **QA Automation Engineer** e hoje trabalho dos dois lados do código: escrevo os testes e também construo o que eles validam. Meu diferencial é levar o olhar de QA para dentro do desenvolvimento — pensar em risco, regra de negócio e regressão desde a primeira linha.
+Sou **QA Automation Engineer & Desenvolvedor de IA**: trabalho dos dois lados do código, escrevendo os testes e também construindo o que eles validam. Meu diferencial é levar o olhar de QA para dentro do desenvolvimento — pensar em risco, regra de negócio e regressão desde a primeira linha.
 
 [![Portfólio](https://img.shields.io/badge/lucasolivato.com-0C0E0F?style=flat-square&logo=googlechrome&logoColor=34D399)](https://www.lucasolivato.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0C0E0F?style=flat-square)](https://www.linkedin.com/in/lucas-olivato/)
@@ -13,7 +13,7 @@ Sou **QA Automation Engineer** e hoje trabalho dos dois lados do código: escrev
 
 ### `// agora`
 
-- **Desenvolvedor de IA na NuageIT** — migrei de QA para desenvolvimento em 2026. Construo e testo assistentes que respondem perguntas dentro de um contexto: um agente conversacional serverless na AWS, com guardrails contra prompt injection, e um assistente de analytics que responde apenas com dados reais do banco, sem inventar números.
+- **Agentes de IA na NuageIT** — em junho de 2026 migrei de QA para desenvolvimento. Desde então, crio agentes com LLMs para clientes: construo e testo assistentes que respondem perguntas dentro de um contexto: um agente conversacional serverless na AWS, com guardrails contra prompt injection, e um assistente de analytics que responde apenas com dados reais do banco, sem inventar números.
 - **[VORCQ](https://www.lucasolivato.com/work/vorcq)** — sistema de gestão de uma locadora de caçambas, em produção: regras de negócio no banco, trilha de auditoria, três perfis de acesso e quality gates a cada entrega.
 - **ClinicFlow** — CRM SaaS multi-tenant para clínicas médicas e odontológicas, com atendimento via WhatsApp e automações com IA.
 - **[lucasolivato.com](https://github.com/Lucasolivato/lucasolivato-portfolio)** — meu portfólio, tratado como produto: 74 testes com Playwright e axe rodando no GitHub Actions.
@@ -59,11 +59,11 @@ Estudos de caso completos: [VORCQ](https://www.lucasolivato.com/work/vorcq) · [
 ### `// trajetória`
 
 ```
-2026 — hoje   NuageIT            Desenvolvedor de IA · dois agentes de IA para clientes
-2025 — 2026   NuageIT            Analista de Qualidade de Software
-2023 — 2025   Tecnologia Única   QA · Robot Framework, Selenium, Python e SAP
-2010 — 2020   área técnica       energia solar e eletrônica
-formação      Gestão de TI (Fatec Jaú) · Técnico em Desenvolvimento de Sistemas (Etec)
+jun/2026 — hoje   NuageIT            Desenvolvedor · agentes de IA e LLMs
+2025 — jun/2026   NuageIT            Analista de Qualidade de Software
+2023 — 2025       Tecnologia Única   QA · Robot Framework, Selenium, Python e SAP
+2010 — 2020       área técnica       energia solar e eletrônica
+formação          Gestão de TI (Fatec Jaú) · Técnico em Desenvolvimento de Sistemas (Etec)
 ```
 
 > A maior parte do meu trabalho está em repositórios privados, porque atende clientes reais. Os estudos de caso no portfólio contam o que construí e como testei — e posso mostrar o código em uma conversa técnica.
